@@ -1,1 +1,1 @@
-Hello!  Git is very confusion, but I will conquer you!
+Hello!  Git is very confusing, but I will conquer you!
